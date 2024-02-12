@@ -22,7 +22,7 @@ export default {
       white: "#f8fafc",
       black: "#020617",
       lightGrey: "#94a3b8",
-      lightBlue: "#064e3b",
+      green: "#064e3b",
     },
   },
   plugins: [],
