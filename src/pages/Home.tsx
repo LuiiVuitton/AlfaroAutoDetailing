@@ -7,7 +7,7 @@ function Home() {
           Alfaro's Auto Detailing
         </h1>
         <p className="text-lg text-black mb-8"></p>
-        <button className="bg-burgandy text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-white transition duration-300">
+        <button className="bg-burgandy text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300 mr-4">
           Book now
         </button>
       </div>

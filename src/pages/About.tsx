@@ -9,7 +9,7 @@ function About() {
             <img
               src={image}
               alt="img"
-              className="w-full rounded-lg shadow-lg"
+              className="w-full rounded-lg shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300 mr-4 "
             />
           </div>
 
