@@ -60,7 +60,7 @@ function NavBar({ logoPath }: NavProps) {
             <div className="hidden sm:ml-6 sm:block">
               <div className="flex space-x-4">
                 <a
-                  href="#"
+                  href="#Home"
                   className="bg-gray-900 text-navBarText flex items-center rounded-md px-3 py-2 text-sm font-medium"
                   aria-current="page"
                 >
@@ -68,22 +68,22 @@ function NavBar({ logoPath }: NavProps) {
                   <span className="ml-2">Home</span>
                 </a>
                 <a
-                  href="#"
-                  className="text-black hover:bg-gray-700 hover:text-white flex items-center rounded-md px-3 py-2 text-sm font-medium"
+                  href="#About"
+                  className="text-black hover:bg-gray-700 hover:text-green flex items-center rounded-md px-3 py-2 text-sm font-medium"
                 >
                   <FaUser />
                   <span className="ml-2">About</span>
                 </a>
                 <a
-                  href="#"
-                  className="text-navBarText hover:bg-gray-700 hover:text-white flex items-center rounded-md px-3 py-2 text-sm font-medium"
+                  href="#Services"
+                  className="text-navBarText hover:bg-gray-700 hover:text-green flex items-center rounded-md px-3 py-2 text-sm font-medium"
                 >
                   <FaTools />
                   <span className="ml-2">Services</span>
                 </a>
                 <a
-                  href="#"
-                  className="text-navBarText hover:bg-gray-700 hover:text-white flex items-center rounded-md px-3 py-2 text-sm font-medium"
+                  href="#Contact"
+                  className="text-navBarText hover:bg-gray-700 hover:text-green flex items-center rounded-md px-3 py-2 text-sm font-medium"
                 >
                   <IoMdMail />
                   <span className="ml-2">Contact</span>

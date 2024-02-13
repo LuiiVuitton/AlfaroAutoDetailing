@@ -5,6 +5,8 @@ import logo from "./assets/AlfaroAutoDetail.png";
 import About from "./pages/About";
 import Services from "./pages/Services";
 
+import Contact from "./pages/Contact";
+
 function App() {
   return (
     <div>
@@ -12,6 +14,7 @@ function App() {
       <Home />
       <About />
       <Services />
+      <Contact />
     </div>
   );
 }
