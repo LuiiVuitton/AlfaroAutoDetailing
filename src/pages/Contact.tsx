@@ -5,7 +5,7 @@ function Contact() {
         <div className="container">
           <div className="row">
             <div className="col-lg-12 text-center">
-              <h2 className="section-heading text-uppercase mb-4 ">
+              <h2 className="section-heading text-uppercase mb-4 font-bold text-xl">
                 Contact Us
               </h2>
             </div>
@@ -39,7 +39,7 @@ function Contact() {
                     </div>
                     <div className="w-full md:w-1/2 px-3">
                       <label
-                        className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2"
+                        className="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2 "
                         htmlFor="grid-email"
                       >
                         Your Email

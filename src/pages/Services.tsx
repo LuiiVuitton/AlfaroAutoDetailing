@@ -62,8 +62,10 @@ function Services() {
                 />
 
                 <p className="mt-2 text-sm text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi
-                  dicta beatae illo illum.{" "}
+                  A Full-Auto detail aims to restore the vehicle's appearance to
+                  its best possible condition, both exterior and interior, and
+                  may take several hours to complete depending on the level of
+                  service and the condition of the vehicle.{" "}
                 </p>
 
                 <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
@@ -103,8 +105,9 @@ function Services() {
                 />
 
                 <p className="mt-2 text-sm text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi
-                  dicta beatae illo illum.{" "}
+                  Focused solely on the outside of the vehicle. Cleaning of
+                  wheels and tires, polishing and waxing the paint, and possibly
+                  applying protective coatings to enhance shine and durability.{" "}
                 </p>
 
                 <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
@@ -144,8 +147,12 @@ function Services() {
                 />
 
                 <p className="mt-2 text-sm text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi
-                  dicta beatae illo illum.{" "}
+                  An interior detail focuses exclusively on cleaning and
+                  restoring the inside of a vehicle. This includes shampoo and
+                  vacuuming the carpets and upholstery, cleaning and
+                  conditioning leather seats, wiping down and disinfecting
+                  surfaces such as the dashboard, door, panels, and center
+                  console, cleaning the windows and mirrors.{" "}
                 </p>
 
                 <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
@@ -186,8 +193,11 @@ function Services() {
                 />
 
                 <p className="mt-2 text-sm text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi
-                  dicta beatae illo illum.
+                  Paintless dent repair (PDR) is a technique used to remove
+                  minor dents and dings from the body of a vehicle without the
+                  need for painting or refinishing. It's typically used for
+                  small dents that haven't caused damage to the paint surface,
+                  such as those caused by hail, door dings, or minor collisions.
                 </p>
 
                 <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
@@ -228,8 +238,10 @@ function Services() {
                 />
 
                 <p className="mt-2 text-sm text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi
-                  dicta beatae illo illum.{" "}
+                  Hail damage can result in numerous small dents across the body
+                  of a car, and PDR offers an efficient and effective way to
+                  restore the vehicle's appearance without the need for
+                  traditional bodywork and painting.{" "}
                 </p>
 
                 <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
@@ -270,8 +282,12 @@ function Services() {
                 />
 
                 <p className="mt-2 text-sm text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi
-                  dicta beatae illo illum.{" "}
+                  mobile PDR offers convenience by providing on-site repairs.
+                  Technicians travel to the customer's location to perform
+                  paintless dent repair on their vehicle. Instead of requiring
+                  the vehicle owner to bring their car to a fixed location such
+                  as an auto body shop, mobile PDR offers convenience by
+                  providing on-site repairs.{" "}
                 </p>
 
                 <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
