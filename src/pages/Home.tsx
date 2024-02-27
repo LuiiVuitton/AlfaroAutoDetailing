@@ -14,9 +14,11 @@ function Home() {
             Alfaro's Auto Detailing
           </h1>
           <p className="text-lg text-black mb-8"></p>
-          <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300 mr-4">
-            Book now
-          </button>
+          <a href="https://squareup.com/us/en?v=all">
+            <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300 mr-4">
+              Book now
+            </button>
+          </a>
         </div>
         <div className="pt-10 text-black text-center italic">
           <p>Scroll down to learn more</p>

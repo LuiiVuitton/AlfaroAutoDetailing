@@ -22,10 +22,10 @@ function About() {
               A family owned business based in Gaithersburg, MD.
             </p>
             <p className="mb-4 ">
-              <span className="ml-4">Welcome</span> to
+              Welcome to
               <span className="italic"> Alfaro's Auto Detail Shop</span>, where
               our{" "}
-              <span className="text-green font-semibold italic">
+              <span className="text-lightBlue font-semibold italic">
                 {" "}
                 family owned business
               </span>{" "}
@@ -38,12 +38,17 @@ function About() {
               and customer satisfaction.
             </p>
             <div className="text-center lg:text-left">
-              <button className="bg-white text-lightBlue2 font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300 mr-4">
-                Contact Us
-              </button>
-              <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
-                Book Now
-              </button>
+              <a href="#Contact">
+                <button className="bg-white text-lightBlue2 font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300 mr-4">
+                  Contact Us
+                </button>
+              </a>
+
+              <a href="https://squareup.com/us/en?v=all">
+                <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
+                  Book Now
+                </button>
+              </a>
             </div>
           </div>
         </div>

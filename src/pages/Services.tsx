@@ -68,9 +68,11 @@ function Services() {
                   service and the condition of the vehicle.{" "}
                 </p>
 
-                <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
-                  Book Now
-                </button>
+                <a href="https://squareup.com/us/en?v=all">
+                  <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
+                    Book Now
+                  </button>
+                </a>
               </div>
             </div>
             {/* Service 2 */}
@@ -110,9 +112,11 @@ function Services() {
                   applying protective coatings to enhance shine and durability.{" "}
                 </p>
 
-                <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
-                  Book Now
-                </button>
+                <a href="https://squareup.com/us/en?v=all">
+                  <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
+                    Book Now
+                  </button>
+                </a>
               </div>
             </div>
             {/* Service 3 */}
@@ -155,9 +159,11 @@ function Services() {
                   console, cleaning the windows and mirrors.{" "}
                 </p>
 
-                <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
-                  Book Now
-                </button>
+                <a href="https://squareup.com/us/en?v=all">
+                  <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
+                    Book Now
+                  </button>
+                </a>
               </div>
             </div>
 
@@ -200,9 +206,11 @@ function Services() {
                   such as those caused by hail, door dings, or minor collisions.
                 </p>
 
-                <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
-                  Book Now
-                </button>
+                <a href="https://squareup.com/us/en?v=all">
+                  <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
+                    Book Now
+                  </button>
+                </a>
               </div>
             </div>
 
@@ -244,9 +252,11 @@ function Services() {
                   traditional bodywork and painting.{" "}
                 </p>
 
-                <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
-                  Book Now
-                </button>
+                <a href="https://squareup.com/us/en?v=all">
+                  <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
+                    Book Now
+                  </button>
+                </a>
               </div>
             </div>
 
@@ -290,9 +300,11 @@ function Services() {
                   providing on-site repairs.{" "}
                 </p>
 
-                <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
-                  Book Now
-                </button>
+                <a href="https://squareup.com/us/en?v=all">
+                  <button className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300">
+                    Book Now
+                  </button>
+                </a>
               </div>
             </div>
           </div>

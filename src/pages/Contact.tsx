@@ -4,16 +4,43 @@ function Contact() {
       <section className="bg-sectionLight py-5">
         <div className="container">
           <div className="row">
-            <div className="col-lg-12 text-center">
-              <h2 className="section-heading text-uppercase mb-4 font-bold text-xl">
-                Contact Us
-              </h2>
+            {/* Direction Steps */}
+            <div className="col-lg-3 mb-4 flex flex-col items-center justify-center">
+              <div className="flex flex-col justify-start">
+                <div className="text-gray-700 text-sm mb-2">
+                  <span className="text-lightBlue font-semibold italic">
+                    {" "}
+                    Step 1:
+                  </span>{" "}
+                  Fill out the Form down below
+                </div>
+                <div className="text-gray-700 text-sm mb-2">
+                  <span className="text-lightBlue font-semibold italic">
+                    {" "}
+                    Step 2:
+                  </span>{" "}
+                  Let us know which service you want
+                </div>
+                <div className="text-gray-700 text-sm mb-2">
+                  <span className="text-lightBlue font-semibold italic">
+                    {" "}
+                    Step 3:
+                  </span>{" "}
+                  Make sure to include pictures
+                </div>
+
+                <div className="text-gray-700 text-sm mb-2">
+                  <span className="text-lightBlue font-semibold italic">
+                    {" "}
+                    Step 4:
+                  </span>{" "}
+                  Submit the form for an estimate
+                </div>
+              </div>
             </div>
-          </div>
-          <div className="row">
-            <div className="col-lg-12">
-              <div className="flex flex-col items-center justify-center mb-4">
-                {/* Image removed */}
+            {/* Form */}
+            <div className="col-lg-9">
+              <div className="flex flex-col items-center justify-center">
                 <form
                   className="w-full max-w-lg"
                   action="mailto:luis1134@icloud.com"
