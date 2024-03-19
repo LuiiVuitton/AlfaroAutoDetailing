@@ -1,11 +1,11 @@
 function Contact() {
   return (
-    <div id="Contact">
+    <div id="Contact" className="bg-sectionLight flex justify-center">
       <section className="bg-sectionLight py-5">
         <div className="container">
-          <div className="row">
+          <div className="flex flex-wrap justify-center">
             {/* Direction Steps */}
-            <div className="col-lg-3 mb-4 flex flex-col items-center justify-center">
+            <div className="w-full lg:w-1/2 mb-4 lg:pl-4 flex items-center justify-center">
               <div className="flex flex-col justify-start">
                 <div className="text-gray-700 text-sm mb-2">
                   <span className="text-lightBlue font-semibold italic">
@@ -38,8 +38,9 @@ function Contact() {
                 </div>
               </div>
             </div>
+
             {/* Form */}
-            <div className="col-lg-9">
+            <div className="w-full lg:w-1/2 mb-4 lg:pr-4">
               <div className="flex flex-col items-center justify-center">
                 <form
                   className="w-full max-w-lg"
@@ -100,9 +101,9 @@ function Contact() {
                   <div className="flex items-center justify-center">
                     <button
                       type="submit"
-                      className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+                      className="bg-lightBlue text-white font-bold py-2 px-6 rounded-full shadow-lg hover:bg-pink-400 hover:text-black hover:scale-105 transition duration-300"
                     >
-                      Send Message
+                      Submit
                     </button>
                   </div>
                 </form>
